@@ -1,6 +1,6 @@
 body {
   font-family: 'Segoe UI', sans-serif;
-  background: linear-gradient(135deg, #4facfe, #00f2fe);
+  background: linear-gradient(135deg, #fe834f, #fe5100);
   display: flex;
   justify-content: center;
   align-items: center;
@@ -35,7 +35,7 @@ button {
   margin-top: 10px;
   border: none;
   border-radius: 8px;
-  background: #4facfe;
+  background: #fe834f;
   color: white;
   font-weight: bold;
   cursor: pointer;
@@ -43,7 +43,7 @@ button {
 }
 
 button:hover {
-  background: #007bff;
+  background: #ff5100;
 }
 
 li {
@@ -64,5 +64,5 @@ li button {
 }
 
 li button:hover {
-  background: #cc0000;
+  background: #dc0000;
 }
